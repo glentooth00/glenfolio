@@ -23,12 +23,12 @@ body{
 }
 
 ul li{
+    font-size: 1.5em;
     display: inline-block;
     margin:10px;
     margin-right: 40px;
-    font-family:cursive,'Courier New', Courier, monospace;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
 a{
     text-decoration: none;
     margin:15px;
@@ -85,7 +85,8 @@ h2{
        margin:0;
     }
     #glen{
-        position: absolute;
+        width: 25em;
+        position: relative;
         float:left;
     }
     .div1{
